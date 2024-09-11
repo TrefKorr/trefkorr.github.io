@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'stanford';
+    src: url('https://trefkorr.github.io/Stanford%20Regular.eot');
+    src: url('https://trefkorr.github.io/stanford_regular-webfont.woff2') format('woff2'),
+         url('https://trefkorr.github.io/stanford_regular-webfont.woff') format('woff'),
+         url('https://trefkorr.github.io/Stanford%20Regular.ttf') format('truetype');
+    src: url('https://trefkorr.github.io/Stanford%20Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.h2 { 
+    font-family: 'stanford'; 
+    font-size: 48px; 
+}
